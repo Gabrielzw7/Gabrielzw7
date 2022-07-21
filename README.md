@@ -1,9 +1,8 @@
-### Gabriel Weitzel | DCPT [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-weitzel/)
+### Gabriel Weitzel | DCPT 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-weitzel/)
 
 - Brasil 🇧🇷
 - Pentest / Red Team / Ethical Hacking ⚔
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-weitzel/)
 
 <div>
   <a href="https://github.com/Gabrielzw7">
