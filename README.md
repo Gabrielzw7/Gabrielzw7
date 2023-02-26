@@ -1,4 +1,4 @@
-### Gabriel Weitzel | DCPT 
+### Gabriel Weitzel | DCPT | eWPT
 
 - Brasil 🇧🇷
 - Pentest / Red Team / Ethical Hacking ⚔
